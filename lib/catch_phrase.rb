@@ -1,3 +1,3 @@
-def catch_phrase(phrase = "any")
+def catch_phrase(phrase = $phrase)
   puts phrase
 end
